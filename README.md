@@ -85,7 +85,7 @@ It is **not 1 GB per proxy**.
 Once you have your proxy list, test them to find the fastest and most stable connection.
 
 The original project uses a Python script for this purpose.
-
+    https://github.com/arshiaalikhani/gemini-region-unlocker/blob/main/test_proxy.py
 Save the script as:
 
 ```text
